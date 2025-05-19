@@ -1,0 +1,27 @@
+body {
+  font-family: 'Georgia', serif;
+  background-color: #fdf6f0;
+  color: #4a3f35;
+  padding: 2rem;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  color: #d36b8d;
+}
+
+.review {
+  background: #fff3f8;
+  border-radius: 20px;
+  padding: 1.5rem;
+  margin: 2rem auto;
+  width: 80%;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+footer {
+  text-align: center;
+  margin-top: 3rem;
+  font-style: italic;
+}
