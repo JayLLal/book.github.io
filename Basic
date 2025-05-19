@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Jay's Book Nook 📚</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Welcome to Jay's Book Nook 💕</h1>
+  <p>Thoughtful reviews. Aesthetic reads. Cozy vibes.</p>
+
+  <div class="review">
+    <h2>💌 Book Title Here</h2>
+    <h3>by Author</h3>
+    <p><strong>Rating:</strong> ⭐⭐⭐⭐☆</p>
+    <p>Your review goes here! Spill your thoughts, fav quotes, vibes, etc.</p>
+  </div>
+
+  <footer>✨ Made with love by Jay ✨</footer>
+</body>
+</html>
